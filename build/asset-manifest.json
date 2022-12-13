@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9deecbb8.css",
+    "main.js": "/static/js/main.54635c01.js",
+    "static/js/787.4e5f8b91.chunk.js": "/static/js/787.4e5f8b91.chunk.js",
+    "static/media/BYUI Logo.jpg": "/static/media/BYUI Logo.056a29fbf7c3b003c562.jpg",
+    "index.html": "/index.html",
+    "main.9deecbb8.css.map": "/static/css/main.9deecbb8.css.map",
+    "main.54635c01.js.map": "/static/js/main.54635c01.js.map",
+    "787.4e5f8b91.chunk.js.map": "/static/js/787.4e5f8b91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9deecbb8.css",
+    "static/js/main.54635c01.js"
+  ]
+}
